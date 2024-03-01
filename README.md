@@ -1,5 +1,5 @@
 # PortKnocking
-* Use ROOT
+* Use ROOT, This is not a portscan
 <img src="https://i.imgur.com/366BKc7.png">
 
 ---
